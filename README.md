@@ -1,0 +1,16 @@
+Here we provide the data and pipeline for: **Economic burden of malaria in Brazil**
+
+Authors: Monica Viegas Andrade1,2, Kenya Valeria Micaela de Souza Noronha1,2, Gilvan R. Guedes1, Lucas Resende de Carvalho1, Henrique Bracarense1, Nayara Abreu Julião1,2, Aline Souza1, Bernardo Campolina Diniz1, Valéria Andrade Silva1, André Soares Motta-Santos1,2, Cassio Peterka3, Marcia C. Castro4*
+
+1 Center for Development and Regional Planning, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais, 31270-901, Brazil.
+2 Center for Health Technology Assessment, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais, 31270-901, Brazil.
+3 Superintendência de Vigilância em Saúde do Amapá, Governo do Estado do Amapá, Macapá, Amapá, 68902-865, Brazil
+4 Department of Global Health and Population, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, 02115, USA
+
+**Abstract**
+
+**Background**: Malaria remains a major global health challenge. Beyond its epidemiological impact, malaria imposes a substantial economic burden on healthcare systems and society. However, comprehensive assessments of this burden, including both healthcare and household costs, have been limited. This study aimed to address this gap by providing the most detailed estimate of the economic burden of malaria in the Brazilian Amazon.
+
+**Methods and Findings**: Public healthcare expenditures were derived from previous studies. Household direct, indirect, and intangible costs were estimated using a household survey conducted across nine municipalities in five Brazilian Amazon states. Data on expenses for 1,131 individuals who experienced a malaria episode between January 2019 and May 2022 were collected. Malaria mortality data were obtained from the Mortality Information System. All costs were monetized and converted to 2024 purchasing power parity US dollars (PPP-USD). The total economic burden of malaria in the Amazon in 2019 was approximately $181.9 million PPP−USD. The Unified Health System (SUS) bore the largest share (72.4%), which was primarily allocated to control and prevention activities. The states of Amazonas, Pará, and Roraima had the highest total burden. Household expenditures were predominantly driven by indirect, mortality, and intangible costs. The main study limitations included convenience sampling and potential recall bias regarding expenses; the latter was mitigated by surveying items and quantities rather than monetary values.
+
+**Conclusions**: This study offers an unparalleled, comprehensive assessment of the economic burden of malaria, offering a foundation for the development of effective malaria control policies at the national and local levels in Brazil. Our findings underscore the critical role of the SUS in protecting families from direct medical costs and highlight the significant (and often hidden) indirect, intangible, and mortality-related costs borne by households. These insights are essential for informing resource allocation and strengthening malaria control and elimination strategies in the Brazilian Amazon. Additionally, the study provides a comprehensive conceptual framework for the estimation of the economic cost of malaria, considering different types of costs and stakeholders. This framework can be adapted to other endemic countries.
